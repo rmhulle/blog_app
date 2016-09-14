@@ -3,5 +3,34 @@
 
 body {
   padding-top: 78px;
-  background-color:e6e6e6;
+  background: #e6e6e6;
+  color: black;
+}
+
+
+.article-title, .article-body {
+  
+  pading-left: 0.7em;
+  
+}
+
+.article-title {
+  
+  font-weight:   bold;
+  font-size:     1.5em;
+  margin-bottom: 0.8em;
+  
+}
+
+.article-body {
+  
+  font-size: 1em;
+  
+  
+}
+
+#new-article-button {
+  margin-right: 15px;
+  margin-bottom: 20px;
+  margin-top: 10px;
 }
